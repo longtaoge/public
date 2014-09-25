@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="text_color_green2">#FF0d774a</color>
+    <color name="text_color_black3">#FF666666</color>
+    <color name="details_main_title_color">#FF333333</color>
+    <color name="main_menu_bar_text_color">#fff8674a</color>
+    <color name="details_main_body_color">#FFF2F2F2</color>
+    <color name="details_tab_background_color">#FFF9F9F9</color>
+    <color name="green1">#FF01b169</color>
+    <color name="green2">#FF0d774a</color>
+    <color name="login_back_click_color">#FF1F2226</color>
+    <color name="login_background">#FFF2F2F2</color>
+    <color name="blue_litte">#CCCCFF</color>
+    <color name="green_litte">#B9E2D4</color>
+    <color name="noColor">#00000000</color>
+    <color name="aqua">#ffd4e7df</color>
+    <color name="backgroundcolor1">#FFFFFF</color>
+    <color name="backgroundcolor2">#FFF7F7F7</color>
+    <color name="red">#900</color>
+    <color name="green">#090</color>
+    <color name="gray">#aaaaaa</color>
+    <color name="gray1">#dddddd</color>
+    <color name="gray2">#cccccc</color>
+    <color name="gray3">#eeeeee</color>
+    <color name="gray4">#d7d7d7</color>
+    <color name="c_f4f4f4">#f4f4f4</color>
+    <color name="blue">#009</color>
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+    <color name="transparent">#0000</color>
+    <color name="backColor">#2000</color>
+    <color name="background">#333740</color>
+    <color name="nonetworkbackground">#ffffd1</color>
+    <color name="detail_bgColor">#f5f5f5</color>
+    <color name="defaultTextColor">#666</color>
+
+    <!-- myzone click -->
+    <color name="myzoneitemColor">#FFFFFFFF	</color>
+    <color name="myzoneitemclickColor">#FFE5F7F0</color>
+    <!-- start zxing -->
+    <color name="viewfinder_frame">#2477ab</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <!-- end zxing -->
+
+    <color name="md__transparent">#00000000</color>
+    <color name="md__defaultBackground">#FF555555</color>
+    <color name="qpintroduc">#ffF5F5F5</color>
+    <color name="holo_blue">#FF33E5B5</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="background_normal">#FFFFFFFF</color>
+    <color name="background_click">#FFF5F5F5</color>
+    <color name="trans">#99ffffff</color>
+    <color name="pull_refresh_textview">#000000</color>
+    <color name="gold">#000000</color>
+
+    <!-- app text  color -->
+    <color name="color_white_1">#ffffffff</color>
+    <color name="color_black_1">#ff333333</color>
+    <color name="color_black_2">#ff666666</color>
+    <color name="color_red_1">#fff26522</color>
+    <color name="color_gray_1">#ffaaaaaa</color>
+    <color name="color_green_1">#ff1bb06c</color>
+    <color name="color_green_2">#ff0d774a</color>
+    <color name="color_blue_1">#ff3b70e1</color>
+    <color name="color_orange_1">#ffdb4f33</color>
+
+    <!-- app other  color -->
+    <color name="color_title_bar_bottom_gapline">#ffaba9aa</color>
+    <color name="color_setting_background">#f2f2f2</color>
+    <color name="color_item_gapline">#cccccc</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+
+</resources>

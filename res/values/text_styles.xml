@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- ##################    文字设置     ######################### -->
+    <style name="font_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="font_size_headline" parent="font_style">
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="font_size_title" parent="font_style">
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="font_size_subhead" parent="font_style">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="font_size_body" parent="font_style">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="font_size_caption" parent="font_style">
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="font_size_menu" parent="font_style">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="font_size_button" parent="font_style">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="font_headline_white" parent="font_size_headline">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_title_white" parent="font_size_title">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="font_subhead_white" parent="font_size_subhead">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <TextView
+        style="@style/font_size_title"
+        android:layout_centerInParent="true"
+        android:text="menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu menu " />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:background="@color/gray" >
+
+        <com.angelcrunch.sdk.cropper.CropImageView
+            android:id="@+id/headimg"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            app:border_color="@color/white"
+            app:border_width="2dp" />
+
+        <TextView
+            style="@style/font_title_white"
+            android:layout_alignTop="@+id/headimg"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/headimg"
+            android:text="刘浩" />
+
+        <TextView
+            style="@style/font_subhead_white"
+            android:layout_alignBottom="@+id/headimg"
+            android:layout_marginLeft="5dp"
+            android:layout_toRightOf="@+id/headimg"
+            android:text="liuqihao0223@gmail.com" />
+    </RelativeLayout>
+
+</RelativeLayout>
